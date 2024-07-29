@@ -24,7 +24,7 @@
 
 /* Navigation Box 1: Logo */
 .nav-box1 {
-    background-image: url(amazon_logo.png);
+    background-image: url(../../public/images/amazon_logo.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -209,7 +209,7 @@
 
 /* Hero Section */
 .hero {
-    background-image: url(hero-section-image.jpg);
+    background-image: url(../../public/images/hero-section-image.jpg);
     height: 300px;
     background-repeat: no-repeat;
     background-size: cover;
